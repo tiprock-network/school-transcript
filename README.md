@@ -5,5 +5,6 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/{username}/{repo-name})
 ![GitHub forks](https://img.shields.io/github/forks/{username}/{repo-name}?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/{username}/{repo-name}?style=social)
+![GitHub contributors (via allcontributors.org)](https://img.shields.io/github/all-contributors/%7Buser%7D/%7Brepo%7D/%7Bbranch%7D)
 
 ![Main](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dj8wcia6suf9a0l94extobzskxeuzk9uf09s0pqw&rid=giphy.gif&ct=g)
